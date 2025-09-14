@@ -1,1 +1,1 @@
-# stock_ai
+$\forall, a$
